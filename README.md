@@ -1,5 +1,4 @@
-# 👋 G'day! I'm Dmitry. 😃
-
+# 👋 G'day! I'm Dmitry. 😃 <img src="http://kotdev.inf.ua/images/kotlin-logo.png" alt=" " width="2.4%"  />[KOTDEV](http://kotdev.inf.ua)
 <!--<p align="left">
 <a href="https://www.linkedin.com/in/timoliver-au/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
