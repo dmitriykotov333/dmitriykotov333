@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>-->
 
-- 👀 I’m interested in android dev
-- 🚗 Currently at Freelance, previously at [Polytech Lab](http://testeyetracing.zzz.com.ua/).
-- 📫 How to reach me gmail: dmitriykotov333@gmail.com or telegram: https://t.me/kotdev1
-- 😁 Nice to meet you!
+- #### 👀 I’m interested in android dev
+- #### 🚗 Currently at Freelance, previously at [Polytech Lab](http://testeyetracing.zzz.com.ua/).
+- #### 📫 How to reach me gmail: dmitriykotov333@gmail.com or telegram: https://t.me/kotdev1
+- #### 😁 Nice to meet you!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitriykotov333&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriykotov333&langs_count=8)
