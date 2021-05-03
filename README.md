@@ -13,6 +13,7 @@
 <a href="https://www.twitch.tv/timXD">
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>-->
+![](https://komarev.com/ghpvc/?username=dmitriykotov333)
 
 ### 👀 I’m interested in android dev
 ### 🚗 Currently at Freelance, previously at [Polytech Lab](http://testeyetracing.zzz.com.ua/).
