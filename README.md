@@ -17,7 +17,7 @@
 
 ### 👀 I’m interested in android dev
 ### 🚗 Currently at Freelance, previously at [Polytech Lab](http://testeyetracing.zzz.com.ua/).
-### 📫 How to reach me gmail: dmitriykotov333@gmail.com or telegram: https://t.me/kotdev1
+### 📫 How to reach me gmail: dmitriykotov333@gmail.com or telegram: https://t.me/ktv_d
 ### 😁 Nice to meet you!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmitriykotov333&show_icons=true)
