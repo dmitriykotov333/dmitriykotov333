@@ -1,8 +1,8 @@
-# 👋 G'day! I'm Dmitry. 😃 <img src="http://kotdev.inf.ua/images/kotlin-logo.png" alt=" " width="2.4%"  />[KOTDEV](http://kotdev.inf.ua)
-<!--<p align="left">
+# 👋 G'day! I'm Dmitry
+<p align="left">
 <a href="https://www.linkedin.com/in/timoliver-au/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://www.dribbble.com/timoliver">
+<!--<a href="https://www.linkedin.com/in/dmitry-kotov-509a0a213/">
 <img src="https://img.shields.io/badge/-Dribbble-%23ff5798" alt="Dribbble"/></a> 
 <a href="https://www.twitter.com/TimOliverAU">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
@@ -13,7 +13,7 @@
 <a href="https://www.twitch.tv/timXD">
 <img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
 </p>-->
-![](https://komarev.com/ghpvc/?username=dmitriykotov333)
+<img src="https://komarev.com/ghpvc/?username=dmitriykotov33&style=flat-square&color=blue" alt=""/> 
 
 ### 👀 I’m interested in android dev
 ### 🚗 Currently at Freelance, previously at [Polytech Lab](http://testeyetracing.zzz.com.ua/).
