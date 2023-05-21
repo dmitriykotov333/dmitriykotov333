@@ -17,6 +17,4 @@
  
 ### :iphone: I work as a Mobile Developer 
   
-  <div >
-  <img src="https://i.giphy.com/media/BUbMgQBShZOcMPohgn/giphy.webp"  />
-</div>
+ 
