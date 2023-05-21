@@ -1,3 +1,4 @@
+  <img src="android.png"/> 
 # 👋 I'm Dmitry
 <p align="left">
 <a href="https://www.linkedin.com/in/dmitry-kotov-509a0a213/">
