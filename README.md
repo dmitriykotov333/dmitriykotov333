@@ -18,5 +18,5 @@
 ### :iphone: I work as a Mobile Developer 
   
   <div>
-   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/09804a82963291.5d308c3850e2c.gif"/> 
+   <img src="view.gif"/> 
    </div>
