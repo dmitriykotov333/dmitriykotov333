@@ -1,4 +1,4 @@
-# 👋 G'day! I'm Dmitry
+# 👋 I'm Dmitry
 <p align="left">
 <a href="https://www.linkedin.com/in/dmitry-kotov-509a0a213/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
@@ -17,4 +17,4 @@
  
 ### :iphone: I work as a Mobile Developer 
   
- 
+  
